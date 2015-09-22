@@ -1,10 +1,10 @@
 {
     "devtools_port": 9090,
     "startup_app": {
-        "name": "demo-frameless-window",
+        "name": "demo-window-sizing",
         "description": "OpenFin POC",
         "url": "http://openfin.github.io/demo-window-sizing/src/index.html",
-        "uuid": "demo-frameless-window",
+        "uuid": "demo-window-sizing",
         "autoShow": false,
         "_resizable": false
     },
@@ -15,6 +15,6 @@
     "shortcut": {
         "company": "OpenFin",
         "description": "Openfin POC",
-        "name": "demo-frameless-window"
+        "name": "demo-window-sizing"
     }
 }
