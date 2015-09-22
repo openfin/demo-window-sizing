@@ -3,7 +3,7 @@
     "startup_app": {
         "name": "demo-frameless-window",
         "description": "OpenFin POC",
-        "url": "http://local:8080/index.html",
+        "url": "http://openfin.github.io/demo-window-sizing/src/index.html",
         "uuid": "demo-frameless-window",
         "autoShow": false,
         "_resizable": false
