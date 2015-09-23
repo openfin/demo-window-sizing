@@ -15,6 +15,7 @@
     "shortcut": {
         "company": "OpenFin",
         "description": "Openfin POC",
-        "name": "demo-window-sizing"
+        "name": "demo-window-sizing",
+        "icon": "http://datamadic.github.io/of-demo-seed/cdn/openfin.ico"
     }
 }
