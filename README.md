@@ -1,11 +1,9 @@
 ##Window Sizing Demo
-Setting the window height and width in an app's config sets the total window height or width. 
+Setting the window height and width in an app's config sets the total window height or width. This demo demonstrates how to set the inner size of the window object to a value. 
 
-This demo demonstrates how to set the inner size of the window object to a value. 
+The Windows installer is [here](https://dl.openfin.co/services/download?fileName=demo-window-sizing&config=http://openfin.github.io/demo-window-sizing/src/app.json).
 
-Windows installer [here](https://dl.openfin.co/services/download?fileName=demo-window-sizing&config=http://openfin.github.io/demo-window-sizing/src/app.json)
-
-The meat of the logic: 
+Here's the meat of the logic: 
 ````
 window.addEventListener('DOMContentLoaded', fin.desktop.main.bind(null, init));
 
